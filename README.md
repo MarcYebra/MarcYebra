@@ -2,7 +2,7 @@
 ==============================
 
 * 🌍 I'm based in Boston, MA
-* 👀 I’m interested in Baseball, Philosophy, Screenwriting, Running, Cooking, Photography, Filmmaking 
+* 👀 I’m interested in Philosophy, Screenwriting, Running, Photography, Filmmaking 
 * 🌱 I’m currently learning React and Rails
 * 🚀 I'm currently working on "Picture This"(https://picture-this.onrender.com/)
 * 💞️ I’m looking to collaborate on web app development
