@@ -1,11 +1,11 @@
 # 👋 Hello World! I'm Marc Yebra
 ---
 
-🌟 Software Developer | 📍 Based in Boston, MA
+🌟 College Student | 📍 Based in Boston, MA | Aspiring ML/AI Engineer
 
-Driven by a passion for technology and creativity, I’m dedicated to building innovative and impactful web applications. With a background in philosophy and the arts, I bring a unique perspective to problem-solving and development.
+I’m a computer science student driven by a passion for machine learning and artificial intelligence. I'm currently expanding my skills in Python and C++ as part of my academic journey and am dedicated to building impactful full-stack web and mobile applications.
 
-* 🎬 Beyond coding, I'm intrigued by philosophy, screenwriting, and filmmaking.
+* 🎬 Beyond coding, I’m intrigued by philosophy, screenwriting, and filmmaking.
 * 🏃‍♂️ In my free time, you'll find me running, exploring photography, and creating visuals.
 
 ### 🚀 Current Projects
@@ -30,24 +30,21 @@ Driven by a passion for technology and creativity, I’m dedicated to building i
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="36" height="36" alt="Three.js" />
+    <img src="https://avatars.githubusercontent.com/u/790012?s=200&v=4" width="36" height="36" alt="Three.js" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a>
 </p>
 
 ### 🧩 What I’m Learning
 I'm currently diving deeper into:
+- **Python** and **C++** for both academic and personal projects.
 - **Three.js** for immersive 3D web experiences.
-- **Python** for its versatility in data science and backend development.
 
 ### 🤝 Let’s Collaborate!
 I'm open to collaborating on projects that blend technology with creativity. Let’s connect if you’re working on:
-- Web and app development
+- Web and mobile app development
 - Interactive and immersive media
 - Projects exploring the intersection of tech and the arts
 
@@ -65,4 +62,3 @@ Connect with me on:
 ---
 
 Thank you for stopping by! Let’s create something amazing together. ✨
-
