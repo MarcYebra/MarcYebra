@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Marc Yebra
 ---
 
-🌟 College Student | 📍 Based in Boston, MA | Aspiring ML/AI Engineer
+🌟 College Student | 📍 Based in Austin, TX | Aspiring ML/AI Engineer
 
 I’m a computer science student driven by a passion for machine learning and artificial intelligence. I'm currently expanding my skills in Python and C++ as part of my academic journey and am dedicated to building impactful full-stack web and mobile applications.
 
