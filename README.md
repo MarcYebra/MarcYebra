@@ -5,8 +5,8 @@
 
 I’m a computer science student driven by a passion for machine learning and artificial intelligence. I'm currently expanding my skills in Python and C++ as part of my academic journey and am dedicated to building impactful full-stack web and mobile applications.
 
-* 🎬 Beyond coding, I’m intrigued by philosophy, screenwriting, and filmmaking.
-* 🏃‍♂️ In my free time, you'll find me running, exploring photography, and creating visuals.
+* 🎬 Beyond coding, I enjoy reading, cooking, and finding new films to watch.
+* 🏃‍♂️ In my free time, you'll find me running, taking landscape photos, hiking, and being creative.
 
 ### 🚀 Current Projects
 - **[Picture This](https://picture-this.onrender.com/):** A creative project where users can bring their ideas to life through collaborative visual storytelling.
