@@ -1,12 +1,12 @@
 # 👋 Hello World! I'm Marc Yebra
 ---
 
-🌟 Current student majoring in Computer Science | 📍 Based in Austin, TX | Aspiring ML/AI Engineer
+🌟 Current student majoring in Computer Science | Aspiring ML/AI Engineer
 
 I’m a computer science student driven by a passion for machine learning and artificial intelligence. I'm currently expanding my skills in Python and C++ as part of my academic journey and am dedicated to building impactful full-stack web and mobile applications.
 
-* 🎬 Beyond coding, I enjoy reading, cooking, and finding new films to watch.
-* 🏃‍♂️ In my free time, you'll find me running, taking landscape photos, hiking, and being creative.
+* 🎬 Beyond coding, I enjoy coffee, reading, cooking, and finding new films to watch.
+* 🏃‍♂️ In my free time, you'll find me running, taking landscape photos, hiking, and being anywhere outdoors.
 
 ### 🚀 Current Projects
 - **[Picture This](https://picture-this.onrender.com/):** A creative project where users can bring their ideas to life through collaborative visual storytelling.
