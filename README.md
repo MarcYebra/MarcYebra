@@ -3,10 +3,7 @@
 
 🌟 Current student majoring in Computer Science | Aspiring ML/AI Engineer
 
-I’m a computer science student driven by a passion for machine learning and artificial intelligence. I'm currently expanding my skills in Python and C++ as part of my academic journey and am dedicated to building impactful full-stack web and mobile applications.
-
-* 🎬 Beyond coding, I enjoy coffee, reading, cooking, and finding new films to watch.
-* 🏃‍♂️ In my free time, you'll find me running, taking landscape photos, hiking, and being anywhere outdoors.
+I’m a computer science student driven by a passion for machine learning and artificial intelligence. I'm currently expanding my skills in Python and C++ as part of my academic journey.
 
 ### 🚀 Current Projects
 - **[Picture This](https://picture-this.onrender.com/):** A creative project where users can bring their ideas to life through collaborative visual storytelling.
@@ -36,17 +33,6 @@ I’m a computer science student driven by a passion for machine learning and ar
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
 </p>
-
-### 🧩 What I’m Learning
-I'm currently diving deeper into:
-- **Python** and **C++** for both academic and personal projects.
-- **Three.js** for immersive 3D web experiences.
-
-### 🤝 Let’s Collaborate!
-I'm open to collaborating on projects that blend technology with creativity. Let’s connect if you’re working on:
-- Web and mobile app development
-- Interactive and immersive media
-- Projects exploring the intersection of tech and the arts
 
 ### 📬 Reach Out
 Connect with me on:
