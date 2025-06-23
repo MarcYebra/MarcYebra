@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/6d/d1/2a/6dd12a43413989fcdfeff0f9b8b46f20.gif" width="400" alt="Hacker-themed animation" />
 </p>
 
-<h3 align="center">Software Engineer • Full-Stack Developer • Educator</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • Student</h3>
 
 ---
 
