@@ -10,11 +10,11 @@
 
 🎓 I'm a full-stack developer and Computer Science major passionate about:
 
-- ⚛️ Physics & Quantum Computing  
-- 🤖 Artificial Intelligence & Computer Vision  
-- 🧠 Programming Languages & Computer Architecture  
+- Physics & Quantum Computing  
+- Artificial Intelligence & Computer Vision  
+- Programming Languages & Computer Architecture  
 
-🔬 Currently conducting research in computer architecture and language design.
+Currently conducting research in computer architecture and language design.
 
 ---
 
