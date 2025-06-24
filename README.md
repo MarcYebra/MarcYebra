@@ -6,17 +6,16 @@
 
 <h2 align="center">Software Engineer • Researcher • Full-Stack Developer</h2>
 
----
-
-🎓 I'm a full-stack developer and Computer Science major passionate about:
-
-- Physics & Quantum Computing  
-- Artificial Intelligence & Computer Vision  
+<p>I'm a full-stack developer and Computer Science major passionate about:</p>
+  
+- Physics & Quantum Computing 
+- Artificial Intelligence & Computer Vision
 - Programming Languages & Computer Architecture  
-
-Currently conducting research in computer architecture and language design.
+  
+*Currently conducting research in computer architecture and language design.*
 
 ---
+
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
