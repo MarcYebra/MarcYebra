@@ -28,6 +28,5 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcYebra&theme=yeblu&show_icons=true&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcYebra&layout=compact&theme=yeblu" height="180"/>
 </p>
