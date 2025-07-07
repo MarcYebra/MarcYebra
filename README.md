@@ -16,15 +16,6 @@
 
 ---
 
-
-<h3 align="center">Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,java,python,ruby,react,next,rails,firebase,npm,docker,postgresql,postman,jira" />
-</p>
-
-
-
-
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
