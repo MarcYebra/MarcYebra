@@ -8,9 +8,9 @@
 
 <p>I'm a full-stack developer and Computer Science major passionate about:</p>
   
-- Quantum Computing 
-- Artificial Intelligence & Computer Vision
+- AI/Machine Learning & Computer Vision
 - Programming Languages & Computer Architecture  
+- Quantum Computing 
   
 *Currently conducting research in computer architecture and language design.*
 
