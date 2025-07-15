@@ -8,7 +8,7 @@
 
 <p>I'm a full-stack developer and Computer Science major passionate about:</p>
   
-- Physics & Quantum Computing 
+- Quantum Computing 
 - Artificial Intelligence & Computer Vision
 - Programming Languages & Computer Architecture  
   
